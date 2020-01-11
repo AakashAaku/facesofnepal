@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <pages>
+    <page>
+      <meta_ID>tt_page1</meta_ID>
+      <page_name>home</page_name>
+      <page_title>home</page_title>
+      <page_template_name>home</page_template_name>
+      <page_header_id>home</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>05/11/2019 00:00:00</publish_date>
+      <page_title_visibility>false</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_home_html_row0 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">WELCOME!</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">We offer you the best hotel with an impressive history</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/43.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">BEST SERVICE</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Morbi leo risus, porta ac consectetur ac, vesti bulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/44.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">RESTAURANTS &amp; BARS</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Tahoma';font-size:1.071em;color:rgba(68,68,68,1);"> </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Malis laboramus ei mei, te nam vidisse efficiendi, ei ius aeterno pericula eum, doming torquatos proaccusam voatum munere vix.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/45.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">PARTY &amp; EVENTS</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Tahoma';color:rgba(68,68,68,1);"> </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Possit equidem volumus ad eum, ad natum munere vix. Ne duis malis sed, graeci electram at qui. Nec id alii mutat. Dicit accusam volutpat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/46.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">SPECIAL OFFERS</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Tahoma';color:rgba(68,68,68,1);"> </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Possit equidem volumus ad eum, ad natum munere vix. Ne duis malis sed, graeci electram at qui. Nec id alii mutat. Dicit accusam volutpat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+<div class="ttr_home_html_row1 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(255,255,255,1);">OUR SERVICES</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque usu no, te possim saperet explicari quo. Mea eruditi quaestio concludaturque eu, per ei simul </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/47.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">MOLESTIAE MAXIME</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(225,225,225,1);">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi cons equatur? Quis autem vel eum iure repreh enderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem dignissimos ducimus .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/48.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">CONSEQUATUR PLACEAET</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(225,225,225,1);">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga</span><span style="font-family:'Verdana';color:rgba(255,255,255,1);">, idque inermis.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/49.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">LAUDANTIUM FUGIAT</span></p><p style="text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(225,225,225,1);">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci dignissimos ducimus .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/50.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">DOLOREMQUE VOLUPTAS </span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(225,225,225,1);">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur At vero eos et accusamus et iusto odio dignissimos ducimus .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column15">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/51.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">ACCUSANTIUM DOLOREM</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(225,225,225,1);">Numquam dissentiunt ut nam. Sea lobortis parti endo cu, suscipit evertitur vix at. Possim quaeque cum at, pri an dico ubique adver sarium. Et vim soluta pertinacia, cum possim denique consec tetuer et. Id libris nostrum mel. Et ius alienum dolores.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_home_html_column16">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/52.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">VOLUPTATEM FACERE</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(225,225,225,1);">Phasellus porta. Fusce suscipit varius mi. Cum soc iis nat oque penatibus et magnis dis parturientmontes, na etur ridiculus mus. Nulla dui. Fusce feugiat males uada odio. Se ber tempor cum soluta nobis eleif end option congue nihil imperdiet.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+<div class="ttr_home_html_row2 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">BEST ROOMS</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque usu no, te possim saperet explicari quo. Mea eruditi quaestio concludaturque eu, per ei simul </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 1.79em 0em 0em;"><span><img class="ttr_uniform" style="max-height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/53.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">MEAERUDITI QUAESTI</span></p><p style="margin:0.71em 0em 0em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque usu no, te possim saperet explicari quo. Mea eruditi quaestio concludaturque eu, per ei simul.</span></p><p style="margin:1.43em 0em 0em 0em;line-height:1.42857142857143;"><span><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 1.79em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/54.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">OMNESQUE SIMUL</span></p><p style="margin:0.71em 0em 0em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Usu tempor apeirian conceptam id, pro cetero civibus forensibus ea, ad mea quod choro omittantur. Mei dolorum instructior signiferumque te, eum ad blandit praesent. No latine fierent pertinacia quono eos exerci </span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 1.79em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/55.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">QUAESTIO DETRACTO</span></p><p style="margin:0.71em 0em 0em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Integre civibus ullamcorper vis no, vix suas primis percipitur an. Mel omnesque pertinacia et, eam ex qualisque evertitur. Ad sea iisque propriae, integre ancillae mediocritatem eu vel, porro partiendo ocurreret ne has. Case nostrum no sit. </span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_home_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 1.79em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/56.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">MNESARCHUM SAPERET</span></p><p style="margin:0.71em 0em 0em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ridens recteque et mel, augue tantas nusquam cu est. Suscipit moderatius te qui, et eam quod velit, partem oporteat et mel. Amet aperiri qualisque vix in. Vis illum dolorem ad, quidam rationibus sed ei. Eius putent gloriatur ut nam.</span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+]]></page_content>
+    </page>
+    <page>
+      <meta_ID>tt_page2</meta_ID>
+      <page_name>about-us</page_name>
+      <page_title>about us</page_title>
+      <page_template_name>about-us</page_template_name>
+      <page_header_id>About Us</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>05/11/2019 00:00:00</publish_date>
+      <page_title_visibility>false</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_about-us_html_row0 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_about-us_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">A FEW WORDS ABOUT US</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem porta vel, scelerisque eget, malesuada at, neque. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div class="ttr_about-us_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:340px;" src="<?php echo $theme_path_content; ?>/images/58.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">ULTRICIES PHARETRA MAGNA</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div class="ttr_about-us_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:340px;" src="<?php echo $theme_path_content; ?>/images/59.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">DONEC ACCUMASN ORCI</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div class="ttr_about-us_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:340px;" src="<?php echo $theme_path_content; ?>/images/60.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">LACUS UT ADIPISCING</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_about-us_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(255,255,255,1);">MEET OUR TEAM</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_about-us_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:211px;" src="<?php echo $theme_path_content; ?>/images/61.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">Mark Johnson</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Aliquam a odio arcu morbi a dignissim nisl aenean aliquet magna in nulla.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_about-us_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:211px;" src="<?php echo $theme_path_content; ?>/images/62.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">Julia Berzkalna</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Aliquam a odio arcu morbi a dignissim nisl aenean aliquet magna in nulla.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_about-us_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:211px;" src="<?php echo $theme_path_content; ?>/images/63.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">Julie Herzigova </span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Aliquam a odio arcu morbi a dignissim nisl aenean aliquet magna in nulla.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_about-us_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:224px;max-width:211px;" src="<?php echo $theme_path_content; ?>/images/64.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">Patrick Pool</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Aliquam a odio arcu morbi a dignissim nisl aenean aliquet magna in nulla.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row">
+<div class="post_column col-lg-8 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_about-us_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Roboto Slab','Georgia';font-size:2.429em;color:rgba(239,74,67,1);">TESTIMONIALS</span></p><p style="margin:2.14em 0.36em 0.36em 0.36em;"><span style="font-family:'Verdana';font-size:2.571em;color:rgba(68,68,68,1);">"</span></p><p style="line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec.luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. </span></p><p style="margin:0.71em 0.36em 0.71em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';font-size:1.571em;color:rgba(68,68,68,1);">Laura Stegner</span></p><p style="margin:2.14em 0.36em 0.36em 0.36em;"><span style="font-family:'Verdana';font-size:2.571em;color:rgba(68,68,68,1);">" </span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';font-size:1.571em;color:rgba(68,68,68,1);">Beverly Clark </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_about-us_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span style="font-family:'Roboto Slab','Georgia';font-size:2.429em;color:rgba(239,74,67,1);">WHY CHOOSE US ?</span></p><ul style="list-style:disc;"><li><p style="margin:2.14em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Praesent vestibulum molestie </span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Vestibulum iaculis lacinia est </span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">In faucibus orciluctus etltrices</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Curae spendisse sollicitudin</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ut pharetra augue nec augueam elit</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Donec porta diam eu massa</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Quisque diam lorem nterdum vitae </span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Lacinia fermentum</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Donec in velit vel ipsum auctor pulvinar</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Vestibulum iaculis lacinia est</span></p></li><li><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Tincidunt ac viverra sed nulla</span></p></li></ul></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+]]></page_content>
+    </page>
+    <page>
+      <meta_ID>tt_page3</meta_ID>
+      <page_name>contact</page_name>
+      <page_title>contact</page_title>
+      <page_template_name>contact</page_template_name>
+      <page_header_id>Contact</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>05/11/2019 00:00:00</publish_date>
+      <page_title_visibility>false</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_contact_html_row0 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_contact_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">CONTACT US</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_contact_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">CONTACT INFO</span></p><p style="margin:1.43em 0.36em 0.36em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque la udantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemoenim ipsam voluptatem quia.</span></p><p style="margin:1.43em 0.36em 0.36em 0em;"><span style="font-family:'Verdana';color:rgba(239,74,67,1);">Address: </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">62 Shady Expressway, </span></p><p style="margin:0em 0.36em 0.36em 4.29em;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">&nbsp;&nbsp;Arcade, USA</span></p><p style="margin:1.07em 0em 0em 0em;"><span style="font-family:'Verdana';color:rgba(239,74,67,1);">Telephone: </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">+1 800 856 9569</span></p><p style="margin:1.07em 0em 0em 0em;"><span style="font-family:'Verdana';color:rgba(239,74,67,1);">FAX: </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">+1 800 875 3622</span></p><p style="margin:1.07em 0em 0em 0em;"><span style="font-family:'Verdana';color:rgba(239,74,67,1);">E-mail: </span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">mail@palerno.com</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_contact_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">CONTACT FORM</span></p><p style="margin:1.43em 0.36em 0.36em 0em;"><div style="width:%;" xmlns="contactformparentdiv"><div class="contactformdiv" style="margin:0px 0px 0px 0px;">[contact-form-7 id="ae817257-a031-48f8-8bec-dc4c69fa7e1b" title="Test Form"]</div></div></p><br /></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+]]></page_content>
+      <contactforms><contactform id="ae817257-a031-48f8-8bec-dc4c69fa7e1b" BrowseButtonVisibility="Visible"><ListViewItem IsSelected="True" ContentStringFormat="{x:Null}" IsTabStop="False" Tag="{x:Null}" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">Name</ListViewItem><ListViewItem ContentStringFormat="{x:Null}" IsTabStop="False" Tag="{x:Null}" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">Email</ListViewItem><ListViewItem ContentStringFormat="{x:Null}" IsTabStop="False" Tag="{x:Null}" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">Subject</ListViewItem></contactform></contactforms>
+    </page>
+    <page>
+      <meta_ID>tt_page4</meta_ID>
+      <page_name>rooms</page_name>
+      <page_title>New Page</page_title>
+      <page_template_name>rooms</page_template_name>
+      <page_header_id>Rooms</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>05/11/2019 00:00:00</publish_date>
+      <page_title_visibility>false</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_rooms_html_row0 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">OUR ROOMS </span></p><p style="text-align:Center;"><span style="font-family:'Verdana';font-size:1.286em;color:rgba(68,68,68,1);">Maecenas tristique orci ac semuis ultricies pharetra magna. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/541.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">MEAERUDITI QUAESTIO</span></p><p style="margin:0.71em 0em 0em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque usu no, te possim saperet explicari quo. Mea eruditi quaestio concludaturque eu, per ei simul </span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/561.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">OMNESQUE SIMUL</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Usu tempor apeirian conceptam id, pro cetero civibus forensibus ea, ad mea quod choro omittantur. Mei dolorum instructior signiferumque te, eum ad blandit praesent. No latine fierent pertinacia quono eos exerci </span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/551.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">QUAESTIO DETRACTO</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Arial';color:rgba(68,68,68,1);">Integre civibus ullamcorper vis no, vix suas primis percipitur an. Mel omnesque pertinacia et, eam ex qualisque evertitur. Ad sea iisque propriae, integre ancillae mediocritatem eu vel, porro partiendo ocurreret ne has. Case nostrum no sit. </span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/65.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">MNESARCHUM SAPERET</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ridens recteque et mel, augue tantas nusquam cu est. Suscipit moderatius te qui, et eam quod velit, partem oporteat et mel. Amet aperiri qualisque vix in. Vis illum dolorem ad, quidam rationibus sed ei. Eius putent gloriatur ut nam.</span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column05">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/66.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">QUAESTIODE TRACTO</span></p><p style="margin:0.71em 0em 0.36em 0em;line-height:1.42857142857143;"><span style="font-family:'Arial';color:rgba(68,68,68,1);">Integre civibus ullamcorper vis no, vix suas primis percipitur an. Mel omnesque pertinacia et, eam ex qualisque evertitur. Ad sea iisque propriae, integre ancillae mediocritatem eu vel, porro partiendo ocurreret ne has. Case nostrum no sit. </span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column06">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/67.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">SARCHUM PERETAS</span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ridens recteque et mel, augue tantas nusquam cu est. Suscipit moderatius te qui, et eam quod velit, partem oporteat et mel. Amet aperiri qualisque vix in. Vis illum dolorem ad, quidam rationibus sed ei. Eius putent gloriatur ut nam.</span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column07">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/68.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">SIMULOM NESQUE </span></p><p style="margin:0.71em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Usu tempor apeirian conceptam id, pro cetero civibus forensibus ea, ad mea quod choro omittantur. Mei dolorum instructior signiferumque te, eum ad blandit praesent. No latine fierent pertinacia quono eos exerci </span><br /></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_rooms_html_column08">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0em 0.57em 0em 0em;"><span><img class="ttr_fill" style="height:200px;max-width:230px;" src="<?php echo $theme_path_content; ?>/images/69.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">CHUMPER SARETAS</span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ridens recteque et mel, augue tantas nusquam cu est. Suscipit moderatius te qui, et eam quod velit, partem oporteat et mel. Amet aperiri qualisque vix in. Vis illum dolorem ad, quidam rationibus sed ei. Eius putent gloriatur ut nam.</span></p><p style="margin:1.07em 0em 0em 0em;line-height:1.42857142857143;"><br style="font-family:'Verdana';color:rgba(68,68,68,1);" /><span><a href="<?php echo get_permalink( get_page_by_path('#') );?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+]]></page_content>
+    </page>
+    <page>
+      <meta_ID>tt_page5</meta_ID>
+      <page_name>services</page_name>
+      <page_title>New Page</page_title>
+      <page_template_name>services</page_template_name>
+      <page_header_id>Services</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>05/11/2019 00:00:00</publish_date>
+      <page_title_visibility>false</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_services_html_row0 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_services_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">WHAT WE OFFER</span></p><p style="text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.286em;color:rgba(68,68,68,1);">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/491.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">SMART KEY</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Malis laboramus ei mei, te nam vidisse efficiendi, ei ius aeterno pericula eum, doming torquatos proaccusam voatum munere vix.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/471.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">ROOM SERVICES</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Possit equidem volumus ad eum, ad natum munere vix. Ne duis malis sed, graeci electram at qui. Nec id alii mutat accusam volutpat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/481.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">FREE WIFI</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Morbi leo risus, porta ac consectetur ac, vesti bulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/501.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">TAXI SERVICES</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column05">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/70.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">TELEPHONE SERVICES</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ridens recteque et mel, augue tantas nusquam cu est. Suscipit moderatius te qui, et eam quod velit, partem oporteat et mel. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column06">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/511.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">LIGGAGE SERVICES</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Ad sea iisque propriae, integre ancillae mediocritatem eu vel, porro partiendo ocurreret ne has. Case nostrum no sit qualisque evertitur.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column07">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/521.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">RESTAURANT&nbsp;&nbsp;&amp; BAR</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Integre civibus ullamcorper vis no, vix suas primis percipitur an. Mel omne sque pertinacia et, eam ex qualisque evertitur nostrum no sit.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column08">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:80px;max-width:80px;" src="<?php echo $theme_path_content; ?>/images/71.png" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(68,68,68,1);">SWIMMING POOL</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+<div class="ttr_services_html_row1 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_services_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(255,255,255,1);">MAIN SERVICES</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.286em;color:rgba(255,255,255,1);">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div class="ttr_services_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/72.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">MARRIGAE PARTY</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Integre civibus ullamcorper vis no, vix suas primis percipitur an. Mel omne sque pertinacia et, eam ex qualisque evertitur nostrum no sit</span><span style="font-family:'Verdana';color:rgba(68,68,68,1);">.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div class="ttr_services_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/73.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">GAMES &amp; CLUB</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata patrioque .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-4 col-md-4 col-sm-4 col-xs-12">
+<div class="ttr_services_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.07em 0em;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="<?php echo $theme_path_content; ?>/images/451.jpg" /></span></span><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">PARTY &amp; EVENTS</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Ridens recteque et mel, augue tantas nusquam cu est. Suscipit moderatius te qui, et eam quod velit, partem oporteat et mel. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+<div class="ttr_services_html_row2 row">
+<div class="post_column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="ttr_services_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:3em;color:rgba(239,74,67,1);">OUR PACKAGES</span></p><p style="margin:0.36em 0.36em 0.36em 0.36em;text-align:Center;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.286em;color:rgba(68,68,68,1);">omnis iste natus error sit voluptatem accusantium doloremque.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">SED IN LACUS UT ADIPISCING</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Parturi ent montnascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio gravida atcursus nec luctus a lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci.</span></p><ul style="list-style:disc;"><li><p style="line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Auctor wisi et urna liquaerat volutpat duis ac turpis integer rutrum ante eu</span></p></li><li><p style="line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Laoreet aliquam ut tellus dolor dapibus eget elementum vel cursus aenean</span></p></li></ul></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">DONEC ACCUMASN ORCI</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Parturi ent montnascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio gravida atcursus nec luctus a lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci.</span></p><ul style="list-style:disc;"><li><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Auctor wisi et urna liquaerat volutpat duis ac turpis integer rutrum ante eu</span></p></li><li><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Laoreet aliquam ut tellus dolor dapibus eget elementum vel cursus aenean</span></p></li></ul></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">ULTRICIES PHARETRA MAGNA</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Parturi ent montnascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio gravida atcursus nec luctus a lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci.</span></p><ul style="list-style:disc;"><li><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Auctor wisi et urna liquaerat volutpat duis ac turpis integer rutrum ante eu</span></p></li><li><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Laoreet aliquam ut tellus dolor dapibus eget elementum vel cursus aenean</span></p></li></ul></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-xs-block" style="clear: both;"></div>
+<div class="post_column col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="ttr_services_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0.36em 0.36em 0.36em 0.36em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(239,74,67,1);">FUSCE FEUGIAT TRISTIQUE</span></p><p style="margin:1.43em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Parturi ent montnascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio gravida atcursus nec luctus a lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci.</span></p><ul style="list-style:disc;"><li><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Auctor wisi et urna liquaerat volutpat duis ac turpis integer rutrum ante eu</span></p></li><li><p style="margin:0.36em 0.36em 0.36em 0.36em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(68,68,68,1);">Laoreet aliquam ut tellus dolor dapibus eget elementum vel cursus aenean</span></p></li></ul></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class=" visible-lg-block visible-sm-block visible-md-block visible-xs-block" style="clear: both;"></div>
+</div>
+]]></page_content>
+    </page>
+  </pages>
+  <post_page_name>blog-wp</post_page_name>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Services</menu_item_title>
+      <menu_item_path>services</menu_item_path>
+      <menu_item_slug>services</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Rooms</menu_item_title>
+      <menu_item_path>rooms</menu_item_path>
+      <menu_item_slug>rooms</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+    </menu_item>
+  </menu>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footerblockcolumn0" tt_blockID="footer_cell0" title=" ">
+        <content><![CDATA[<div class="html_content"><p style="margin:0em 0em 0em 2.14em;"><br style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);" /></p><p style="margin:0.71em 0em 0em 2.14em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">INFOMATION</span></p><p style="margin:1.43em 0em 0em 2.14em;line-height:1.42857142857143;"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">Copiosae mnesarchum his et. Id alii doming pericula his, ipsum dicam perpetua sed an, nam solet singulis ei. Delicata .</span></p><p style="margin:1.43em 0em 0em 2.14em;"><br style="font-family:'Verdana';color:rgba(255,255,255,1);" /></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+          <widget_page>services</widget_page>
+          <widget_page>home</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footerblockcolumn1" tt_blockID="footer_cell1" title=" ">
+        <content><![CDATA[<div class="html_content"><p style="margin:0em 0em 0em 2.14em;"><br style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);" /></p><p style="margin:0.71em 0em 0em 2.14em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">QUICK LINKS</span></p><p style="margin:1.43em 0em 0em 2.14em;"><a href="<?php echo get_permalink( get_page_by_path('About-Us') );?>" class="tt_link" target="_self" style="color:rgba(0,102,204,1);"><span style="color:rgba(255,255,255,1);">ABOUT US</span></a></p><p style="margin:0.71em 0em 0em 2.14em;"><a href="<?php echo get_permalink( get_page_by_path('Services') );?>" class="tt_link" target="_self" style="color:rgba(0,102,204,1);"><span style="color:rgba(255,255,255,1);">SERVICES</span></a></p><p style="margin:0.71em 0em 0em 2.14em;"><a href="<?php echo get_permalink( get_page_by_path('Rooms') );?>" class="tt_link" target="_self" style="color:rgba(0,102,204,1);"><span style="color:rgba(255,255,255,1);">ROOMS</span></a></p><p style="margin:0.71em 0em 0em 2.14em;"><a href="<?php echo get_permalink( get_page_by_path('Contact') );?>" class="tt_link" target="_self" style="color:rgba(0,102,204,1);"><span style="color:rgba(255,255,255,1);">CONTACT US</span></a></p><br style="margin:0.71em 0em 0em 2.14em;" /></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+          <widget_page>services</widget_page>
+          <widget_page>home</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footerblockcolumn2" tt_blockID="footer_cell2" title=" ">
+        <content><![CDATA[<div class="html_content"><p style="margin:0em 0em 0em 2.14em;"><br style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);" /></p><p style="margin:0.71em 0em 0em 2.14em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">USEFUL INFO</span></p><p style="margin:1.43em 0em 0em 2.14em;"><a href="http://templatetoaster.com/" class="tt_link" target="_self" style="color:rgba(109,109,109,1);"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">RESTAURANTS &amp; BAR </span></a></p><p style="margin:0.71em 0em 0em 2.14em;"><a href="http://templatetoaster.com/" class="tt_link" target="_self" style="color:rgba(109,109,109,1);"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">WEDDINGS</span></a></p><p style="margin:0.71em 0em 0em 2.14em;"><a href="http://templatetoaster.com/" class="tt_link" target="_self" style="color:rgba(109,109,109,1);"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">NEW GALLERY</span></a></p><p style="margin:0.71em 0em 0em 2.14em;"><a href="http://templatetoaster.com/" class="tt_link" target="_self" style="color:rgba(109,109,109,1);"><span style="font-family:'Verdana';color:rgba(255,255,255,1);">SITEMAP</span></a></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+          <widget_page>services</widget_page>
+          <widget_page>home</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footerblockcolumn3" tt_blockID="footer_cell3" title=" ">
+        <content><![CDATA[<div class="html_content"><p style="margin:0em 0em 0em 2.14em;"><br style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);" /></p><p style="margin:0.71em 0em 0em 2.14em;"><span style="font-family:'Roboto Slab','Georgia';font-size:1.571em;color:rgba(255,255,255,1);">CONTACT US</span></p><p style="margin:1.43em 0em 0em 2.14em;line-height:1.42857142857143;"><span style="color:rgba(255,255,255,1);">62 Shady Expressway, </span></p><p style="margin:0em 0em 0em 2.14em;line-height:1.42857142857143;"><span style="color:rgba(255,255,255,1);">Arcade, USA</span></p><p style="margin:1.43em 0em 0em 2.14em;"><span style="color:rgba(255,255,255,1);">PHONE :-(99)7524 427400 </span></p><br style="margin:0.71em 0em 0em 2.14em;" /></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+          <widget_page>services</widget_page>
+          <widget_page>home</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+</sitecontent>
