@@ -265,11 +265,31 @@ $var = get_post_meta ( $postid, 'ttr_page_head_checkbox', true );
 if ($var == "true" || $var == ""):?>
 <header id="ttr_header"<?php if ( get_header_image() ) : ?> style="background-image: url(<?php header_image(); ?>);background-position: center;"<?php endif; ?> >
 <div id="ttr_header_inner">
-<div class="ttr_header_element_alignment container">
-</div>
-<div class="ttr_headershape01">
-<div class="html_content"><p style="margin:0em 0em 0em 0em;text-align:Center;line-height: normal;"><span style="font-family:'Roboto Slab','Georgia';font-size:4.286em;color:rgba(239,74,67,1);">THE BEST PLACE TO EXPLORE</span></p><p style="margin:0em 0em 0em 0em;text-align:Center;line-height: normal;"><span style="font-family:'Roboto Slab','Georgia';font-size:3.429em;color:white;">THE REAL FACES &amp; OF NEPAL...</span></p><p><br style="font-family:'Roboto Slab','Georgia';color:rgba(239,74,67,1);" /></p></div>
-</div>
+   <div class="ttr_header_element_alignment container"></div>
+   <div class="ttr_header_marquee_text row">
+    <div style=" background-color:#F30; color:#FFF; border:#C30 solid thin; width:100%; font-weight:bold"> <marquee 
+     behavior="scroll">HELLO FROM FACES OF NEPAL ORGANIZAITON!!!!</marquee></div>
+   </div>
+   <div class="ttr_header_program row">
+     <div class="ttr_body_ourprogram col-md-6 col-sm-6 col-lg-6">
+        
+          <?php
+     if ( function_exists( 'soliloquy' ) ) { soliloquy( '225' ); }
+     if ( function_exists( 'soliloquy' ) ) { soliloquy( 'ourproram_slider_slug', 'slug' ); }
+
+    ?>   
+        
+     </div> 
+     <div class="col-xs-2 v-divider"></div>
+     <div class="ttr_header_regular_program col-md-6 col-sm-6 col-lg-6">
+
+         <?php 
+       if ( function_exists( 'soliloquy' ) ) { soliloquy( '264' ); }
+       if ( function_exists( 'soliloquy' ) ) { soliloquy( 'regular-program', 'slug' ); }
+    ?>
+
+     </div>
+   </div>
 </div>
 </header>
 <?php endif; ?>

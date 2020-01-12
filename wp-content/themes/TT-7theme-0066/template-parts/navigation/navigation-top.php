@@ -33,9 +33,8 @@ Menu
 <?php endif; ?>
 </div>
 <div class="ttr_menu_logo">
-<a href="http://www.facesofnepal.org" target="_self">
-<img src="<?php echo get_template_directory_uri().'/menulogo.png'; ?>" alt="Menulogo" style="background-color:black;" />
-<i class="icon-phone" style="margin: 0 7px 0 0;color: #0a3069"></i> +977-01-4499067 <i class="icon-clock" style="margin: 0 7px;color: #0a3069"></i>Sunday - Friday 10:00 - 18:00
+<a href="http://www.templatetoaster.com" target="_self">
+<img src="<?php echo get_template_directory_uri().'/menulogo.png'; ?>" alt="Menulogo" />
 </a>
 </div>
 </div>
